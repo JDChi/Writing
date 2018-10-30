@@ -14,9 +14,9 @@
 
 打开Lantern，在“设置”——“高级设置”里看到服务器的地址，然后复制填到SwitchyOmega的代理服务器里
 
-![]()
+![](https://raw.githubusercontent.com/JDNew/Writing/master/image/20180128100744007.png)
 
-![]()
+![](https://raw.githubusercontent.com/JDNew/Writing/master/image/20180128100818399.png)
 
 然后点击左下方的“应用选项”（此时应该是绿色的）
 
@@ -26,4 +26,4 @@
 
 然后点击我们的SwitchyOmega拓展插件，点击切换到我们刚才设置的代理即可：
 
-![]()
+![](https://raw.githubusercontent.com/JDNew/Writing/master/image/20180128101209829.png)
